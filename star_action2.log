@@ -1,0 +1,13 @@
+Lambda Debug Log(2022/8/25 19:55:38)
+[Lambda] initialized Window unit.
+[Lambda] initialized Draw unit.
+[Lambda] initialized Midi unit.
+[Lambda] initialized Time unit.
+[Lambda] initialized Input unit.
+[Lambda] initialized Text unit.
+[Dsnd] Create mode
+[Lambda] initialized Sound unit.
+[Lambda] initialized Movie unit.
+[Lambda] initialized Net unit.
+[Lambda] initialized Event unit.
+[Lambda] initialized VM unit.
